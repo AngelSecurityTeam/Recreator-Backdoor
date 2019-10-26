@@ -19,3 +19,7 @@
 <img src="https://github.com/AngelSecurityTeam/Recreator-Backdoor/blob/master/Foto_RecreatorBackdoor_1.png">
 
 <img src="https://github.com/AngelSecurityTeam/Recreator-Backdoor/blob/master/Foto_RecreatorBackdoor_2.png">
+
+<h3> Paypal Donations: </h3>
+
+* https://www.paypal.me/AngelSecurityTeam
