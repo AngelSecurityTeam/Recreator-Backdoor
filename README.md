@@ -14,9 +14,11 @@
 
 * python3 Recreator-Backdoor.py
 
-<h3> PHOTOS </h3>
+<h3> Linux : </h3>
 
 <img src="https://github.com/AngelSecurityTeam/Recreator-Backdoor/blob/master/Foto_RecreatorBackdoor_1.png">
+
+<h3> Windows : </h3>
 
 <img src="https://github.com/AngelSecurityTeam/Recreator-Backdoor/blob/master/Foto_RecreatorBackdoor_2.png">
 
